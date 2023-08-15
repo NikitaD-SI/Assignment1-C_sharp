@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\bin\Debug\net6.0\CompareString.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\bin\Debug\net6.0\CompareString.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\bin\Debug\net6.0\CompareString.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\bin\Debug\net6.0\CompareString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\bin\Debug\net6.0\CompareString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\refint\CompareString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\CompareString.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\CompareString\CompareString\obj\Debug\net6.0\ref\CompareString.dll

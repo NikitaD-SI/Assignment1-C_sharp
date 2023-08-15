@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\refint\Arraycopy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraycopy\Arraycopy\obj\Debug\net6.0\ref\Arraycopy.dll

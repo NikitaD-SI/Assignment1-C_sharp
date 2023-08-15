@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\bin\Debug\net6.0\ExtractSubS.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\bin\Debug\net6.0\ExtractSubS.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\bin\Debug\net6.0\ExtractSubS.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\bin\Debug\net6.0\ExtractSubS.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\bin\Debug\net6.0\ExtractSubS.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\refint\ExtractSubS.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ExtractSubS.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ExtractSubS\ExtractSubS\obj\Debug\net6.0\ref\ExtractSubS.dll

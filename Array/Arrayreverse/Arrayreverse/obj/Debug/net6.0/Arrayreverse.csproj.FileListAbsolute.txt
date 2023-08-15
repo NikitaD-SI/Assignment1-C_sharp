@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\bin\Debug\net6.0\Arrayreverse.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\bin\Debug\net6.0\Arrayreverse.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\bin\Debug\net6.0\Arrayreverse.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\bin\Debug\net6.0\Arrayreverse.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\bin\Debug\net6.0\Arrayreverse.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\refint\Arrayreverse.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\Arrayreverse.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arrayreverse\Arrayreverse\obj\Debug\net6.0\ref\Arrayreverse.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e48sJYc029Xf5YiUo4gebBY/GO9Svt+fR7bZHBB3/IIqZ8gc2pQxC6Rcx5y2XuOOUYqlbPOKnLfh4k9Um3u5/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apurva.jalgaonkar\\Documents\\C#\\CompareString\\CompareString\\CompareString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

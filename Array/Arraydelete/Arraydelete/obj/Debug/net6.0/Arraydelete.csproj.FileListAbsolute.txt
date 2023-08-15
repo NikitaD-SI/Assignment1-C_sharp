@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\bin\Debug\net6.0\Arraydelete.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\bin\Debug\net6.0\Arraydelete.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\bin\Debug\net6.0\Arraydelete.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\bin\Debug\net6.0\Arraydelete.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\bin\Debug\net6.0\Arraydelete.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\refint\Arraydelete.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\Arraydelete.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Arraydelete\Arraydelete\obj\Debug\net6.0\ref\Arraydelete.dll

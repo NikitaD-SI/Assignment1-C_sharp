@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\bin\Debug\net6.0\PositionString.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\bin\Debug\net6.0\PositionString.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\bin\Debug\net6.0\PositionString.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\bin\Debug\net6.0\PositionString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\bin\Debug\net6.0\PositionString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\refint\PositionString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\PositionString.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\PositionString\PositionString\obj\Debug\net6.0\ref\PositionString.dll

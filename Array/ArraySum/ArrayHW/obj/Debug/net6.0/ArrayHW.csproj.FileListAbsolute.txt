@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\bin\Debug\net6.0\ArrayHW.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\bin\Debug\net6.0\ArrayHW.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\bin\Debug\net6.0\ArrayHW.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\bin\Debug\net6.0\ArrayHW.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\bin\Debug\net6.0\ArrayHW.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\refint\ArrayHW.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ArrayHW.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ArrayHW\ArrayHW\obj\Debug\net6.0\ref\ArrayHW.dll

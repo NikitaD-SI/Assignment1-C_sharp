@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\bin\Debug\net6.0\RewriteString.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\bin\Debug\net6.0\RewriteString.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\bin\Debug\net6.0\RewriteString.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\bin\Debug\net6.0\RewriteString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\bin\Debug\net6.0\RewriteString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\refint\RewriteString.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\RewriteString.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\RewriteString\RewriteString\obj\Debug\net6.0\ref\RewriteString.dll

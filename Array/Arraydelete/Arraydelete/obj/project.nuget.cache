@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6ci4ikEwC5EKaBsElqiILT40UWl0NTx7FoSMXbMH1yn/ruptYQrqCrOoqYT/0LpoWvOemxKUWX7iHFvAwZsTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apurva.jalgaonkar\\Documents\\C#\\Arraydelete\\Arraydelete\\Arraydelete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

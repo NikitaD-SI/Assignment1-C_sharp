@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\bin\Debug\net6.0\StudentMarks.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\bin\Debug\net6.0\StudentMarks.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\bin\Debug\net6.0\StudentMarks.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\bin\Debug\net6.0\StudentMarks.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\bin\Debug\net6.0\StudentMarks.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\refint\StudentMarks.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\StudentMarks.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\StudentMarks\StudentMarks\obj\Debug\net6.0\ref\StudentMarks.dll
